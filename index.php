@@ -78,7 +78,7 @@ include("marco-left.php")
 document.getElementById("foto").src="./images/stalin.png";
 document.getElementById("elnombre").innerHTML="Susana Charcopa";
 
-document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>Inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento Informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p><a href='#blog-seccion5'><p>Capacitación</a></p><a href='#blog-seccion6'><p>Acesoria Tecnica</a></p><a href='#blog-seccion7'><p>Investigación</a></p><a href='#blog-seccion8'><p>Desarrollo Web</a></p><a href='#blog-seccion9'><p>Donaciones</a></p> ";
+document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>Inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento Informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p> <p><b>Menú Secundario</b></p><a href='#blog-seccion5'><p>Capacitación</a></p><a href='#blog-seccion6'><p>Acesoria Tecnica</a></p><a href='#blog-seccion7'><p>Investigación</a></p><a href='#blog-seccion8'><p>Desarrollo Web</a></p><a href='#blog-seccion9'><p>Donaciones</a></p> ";
 
  document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://highkickesmeraldas.com/SimisterraAlejandra/#blog-seccion2'>Alejandra Simisterra</a></p> <p><a href='https://highkickesmeraldas.com/BalcazarLuis/'>Luis Balcazar</a></p><p><a>Juan Zambrano</a></p><p><a>Gabriel Quinde</a></p>";
  </script>
